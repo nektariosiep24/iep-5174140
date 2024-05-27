@@ -14,4 +14,4 @@ https://blogs.sch.gr/nemilios/author/nemilios/?repeat=w3tc στο προσωπι
 ΠΟΡΟΣ 5
 https://content.e-me.edu.gr/wp-admin/admin-ajax.php?action=h5p_embed&id=1370269
 Πρόκειται για περίπτωση πρακτικής και εξάσκησης με διαδραστική άσκηση τύπου μεταφοράς και απόθεσης λέξεων (drag and drop). Ο πόρος βρίσκεται στην e-me και είναι ελέυθερα προσβάσιμος και μέσω του συνδέσμου
-https://blogs.sch.gr/nemilios/author/nemilios/?repeat=w3tc στο προσωπικό μου ιστολόγιο στο sch.gr.
+https://blogs.sch.gr/nemilios/author/nemilios/?repeat=w3tc στο προσωπικό μου ιστολόγιο στο sch.gr .
